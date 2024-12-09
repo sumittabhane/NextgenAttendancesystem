@@ -14,6 +14,6 @@ Step 4 : python src/app.py
 
                           Enjoy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-                                                                                                created by- 
-                                                                                                Tejas Mankar & Sumit Tabhane
+                                 created by- 
+                                 Tejas Mankar & Sumit Tabhane
                                                                                                 
